@@ -1,2 +1,4 @@
 <h1 class="lg"> Hello World!!</h1>
-[6]: http://www.github.com/vaishnavav99
+
+[1] : https://www.linkedin.com/in/vaishnavav99
+[2] : https://www.instagram.com/vaishnavav99/
