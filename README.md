@@ -1,4 +1,4 @@
-## Hey Everyone :hello: , 
+## Hey Everyone :wave: , 
 
 <p align="center">
   <samp>
